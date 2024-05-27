@@ -33,8 +33,7 @@ With Task Tracker, team leaders can efficiently create, update, and assign tasks
 - **Get Profile Details**: Endpoint to retrieve the profile details of a specific employee.
 - **Get Employee Tasks**: Endpoint to retrieve tasks assigned to a specific employee.
 - **Update Task**: Endpoint to update an existing task after work done.
-\
-\
-\
+
+
 ## Swagger UI
 ![Swagger UI](Task.jpeg)
