@@ -3,7 +3,7 @@ Task Tracker is a comprehensive task management system designed to streamline th
 \
 With Task Tracker, team leaders can efficiently create, update, and assign tasks to individual team members. Employees can easily view their assigned tasks, update their status, and provide comments or feedback as needed. The application offers a user-friendly interface and a set of RESTful API endpoints for seamless integration with other systems.
 
-## Technologies Utilized : ## 
+## Technologies Utilized  ## 
 - Java
 - Spring Boot
 - Spring Dev Tools
