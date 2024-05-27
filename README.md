@@ -28,7 +28,7 @@ With Task Tracker, team leaders can efficiently create, update, and assign tasks
 - **Get Employee by ID**: Endpoint to retrieve details of a specific Employee by ID.
 - **Delete Task**: Endpoint to delete a task by ID.
 
-### Employee Management
+### Employee
 
 - **Get Profile Details**: Endpoint to retrieve the profile details of a specific employee.
 - **Get Employee Tasks**: Endpoint to retrieve tasks assigned to a specific employee.
